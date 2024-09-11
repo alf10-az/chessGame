@@ -1,4 +1,4 @@
 # chessGame
 First Git Repository
 <br>
-Author - Alfid Azharuddin
+Author - Alfid Azharuddin (Appu)
